@@ -1,0 +1,5 @@
+Generated_from: 1117 "/home/skaller/work/felix/src/packages/rtl.fdoc"
+Name: flx_executil
+Description: Felix mini scheduler
+Requires: flx
+includes: '"flx_executil.hpp"'
